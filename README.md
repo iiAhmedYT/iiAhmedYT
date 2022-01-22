@@ -5,5 +5,5 @@
 
 ### Languages Used
 <a href="https://iiAhmed.Dev">
-   <img src="https://github-readme-stats.vercel.app/api?username=iiAhmedYT&theme=blue-green" alt="yes" />
+   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iiAhmedYT&theme=blue-green" alt="Langs" />
 </a>
