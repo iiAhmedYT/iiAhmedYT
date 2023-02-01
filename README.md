@@ -10,6 +10,6 @@
 ### Languages
 [![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/skills?names=java,kotlin,js,ts,php,html,css,xml,json,yaml,postgresql,mysql,bash,c&includeNames=true)](https://github.com/iiAhmedYT)
 
-<a href="https://iiAhmed.Dev">
+<a href="https://iiahmed.dev">
    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iiAhmedYT&theme=blue-green" alt="Langs" />
 </a>
